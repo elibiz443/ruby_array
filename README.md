@@ -10,3 +10,9 @@ to be:
 ```
 as string in simplest way in Ruby.
 
+To test, run this in terminal:
+```
+rspec spec
+```
+
+#### Voilà 👍
